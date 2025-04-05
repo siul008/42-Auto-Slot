@@ -4,8 +4,6 @@ A simple Js program that allows you to automatically book slot for the day in a 
 Sometimes especially on quieter days finding a correction slot can be cumbersome due to the need to refresh the page, scroll, check if a slot is available etc...<br />
 With 42-Auto-Slot, you can automate the process and book the right slot without the hassle.
 
-A simple JavaScript script that automatically books a slot for your 42 project within a given hour range.
-
 ## How to use
 1. Go to your project page on the 42 Intra.
 2. Navigate to the "Subscribe to defense" section where slots are available.
