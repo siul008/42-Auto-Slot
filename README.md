@@ -1,7 +1,7 @@
 # 42-Auto-Slot
 A simple Js program that allows you to automatically book slot for the day in a given hour range
 
-Sometimes especially on quieter days finding a correction slot can be cumbersome due to the need to refresh the page, scroll, check if a slot is available etc...
+Sometimes especially on quieter days finding a correction slot can be cumbersome due to the need to refresh the page, scroll, check if a slot is available etc...<br />
 With 42-Auto-Slot, you can automate the process and book the right slot without the hassle.
 
 A simple JavaScript script that automatically books a slot for your 42 project within a given hour range.
